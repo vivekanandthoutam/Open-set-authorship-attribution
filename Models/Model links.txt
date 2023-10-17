@@ -1,0 +1,2 @@
+Closed set model -- 6 epochs -- https://drive.google.com/drive/folders/122Jd1AgdLTn8ecTcq75cSaIklSuAXeS-?usp=share_link
+Open set model -- 4 epochs -- https://drive.google.com/drive/folders/1Kzgdhi8Djjs8vzMciu3WisHJwzO73lj9?usp=share_link
